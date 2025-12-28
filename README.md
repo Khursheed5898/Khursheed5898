@@ -131,8 +131,6 @@ To secure an **internship or entry-level role** as:
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Meme Break
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 
@@ -140,4 +138,4 @@ To secure an **internship or entry-level role** as:
 - 🔗 LinkedIn: https://www.linkedin.com/in/khursheed-alam-51a76121b
 - 📹 YouTube : https://www.youtube.com/@khursheed4k
 
-⭐ *If you like my work, consider starring the repositories!*
+  ⭐ *If you like my work, consider starring the repositories!*
