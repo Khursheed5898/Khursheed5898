@@ -135,7 +135,7 @@ To secure an **internship or entry-level role** as:
 ---
 
 📬 **Let’s Connect**
-   🔗 LinkedIn: https://www.linkedin.com/in/khursheed-alam-51a76121b
-   📹 YouTube : https://www.youtube.com/@khursheed4k
+ - 🔗 LinkedIn: https://www.linkedin.com/in/khursheed-alam-51a76121b
+ - 📹 YouTube : https://www.youtube.com/@khursheed4k
 
 ⭐ *If you like my work, consider starring the repositories!*
