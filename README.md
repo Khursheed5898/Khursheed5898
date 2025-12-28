@@ -1,3 +1,29 @@
+👋 Hi, I'm a CSE (AI) student passionate about AI, Deep Learning, and Full Stack Development.
+
+🧠 Technical Skills:
+- Artificial Intelligence & Deep Learning
+- Machine Learning, CNNs, RNNs, LSTMs, Transformers
+- Agentic AI & autonomous systems
+- Data Science & model training
+- Java (DSA, OOPs)
+- Spring Boot (RESTful APIs)
+- MERN Stack (MongoDB, Express, React, Node.js)
+
+🚀 What I Build:
+- AI-powered full-stack applications
+- Intelligent recommendation & prediction systems
+- Scalable backend services using Spring Boot
+- End-to-end ML & DL pipelines
+- Agent-based AI solutions
+
+🎯 Goals:
+- Become an AI / ML Engineer or Full Stack AI Developer
+- Work on impactful, real-world AI products
+- Contribute to open-source & research-driven projects
+
+📫 Let's collaborate and build something meaningful!
+
+
 # 👨‍💻 Khursheed Alam — Full Stack Dev | Java Backend | AI Explorer 🚀
 
 Welcome to my GitHub! I'm a passionate developer blending backend logic with real-world impact. From scalable Java web apps to AI-powered experiments, I love building things that *work* and *wow*.
