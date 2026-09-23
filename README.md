@@ -1,6 +1,6 @@
 # 👨‍💻 Khursheed Alam — AI Engineer in Progress | Full Stack Developer | Java Backend 🚀
 
-Welcome to my GitHub! &  [My Portfolio](https://khursheed4k.vercel.app) 
+Welcome to my GitHub! &  [My Portfolio](https://khursheed4k.vercel.app) 🚀
 
 I’m a **CSE (Artificial Intelligence) student** passionate about building **intelligent, scalable, and production-ready systems** by combining **AI, Deep Learning, Data Science, and Full Stack Development**.
 
