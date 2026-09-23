@@ -7,19 +7,29 @@ I enjoy working at the intersection of **AI + Software Engineering** — from tr
 
 ---
 
-## 🚀 Projects by Domain
+## 🚀 Featured Projects Portfolio by Domain
 
-* 🌐 **MERN Stack Projects:**
-  * 👉 [My Portfolio](https://github.com/Khursheed5898/My_Portfolio)
-  * 👉 [DiBot.AI](https://github.com/Khursheed5898/DiBot.AI)
-  * 👉 [Career Counselling Website](https://github.com/Khursheed5898/Career-Counselling-Website)
+### 🌐 MERN & Full-Stack Development
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **My Portfolio** | React, Vite, Node.js, CSS | Responsive, interactive developer portfolio showcasing skills and projects | [📂 View Repository](https://github.com/Khursheed5898/My_Portfolio) |
+| **DiBot.AI** | MERN Stack, AI Integration, REST API | Full-stack AI chatbot and smart conversational assistant | [📂 View Repository](https://github.com/Khursheed5898/DiBot.AI) |
+| **Career Counselling Website** | MERN Stack, JavaScript, MongoDB | Interactive platform providing personalized career recommendations & guidance | [📂 View Repository](https://github.com/Khursheed5898/Career-Counselling-Website) |
 
-* 📊 **Data Analyst Projects:**
-  * 👉 [DataAnalysis_Projects / (1) t20Match_Analysis](https://github.com/Khursheed5898/DataAnalysis_Projects/tree/main/(1)%20t20Match_Analysis)
+---
 
-* 🤖 **AI / ML Projects:**
-  * 👉 [Machine-Learning](https://github.com/Khursheed5898/Machine-Learning)
-  * 👉 [AI-ML-DL-Master-resources](https://github.com/Khursheed5898/AI-ML-DL-Master-resources)
+### 📊 Data Analytics & Business Intelligence
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **T20 Cricket World Cup Analysis** | Python, Pandas, Power BI, DAX, Power Query | End-to-end data pipeline from web scraping to interactive Power BI "Best 11" selection dashboard | [📂 View Project](https://github.com/Khursheed5898/DataAnalysis_Projects/tree/main/(1)%20t20Match_Analysis) |
+
+---
+
+### 🧠 AI, Machine Learning & Deep Learning
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **Machine Learning Workflows** | Python, Scikit-Learn, Pandas, Jupyter | Exploratory data analysis, feature engineering, classification & regression pipelines | [📂 View Repository](https://github.com/Khursheed5898/Machine-Learning) |
+| **AI & Deep Learning Resources** | TensorFlow, PyTorch, OpenCV, NLP | Master repository covering Computer Vision, NLP & Deep Learning | [📂 View Resources](https://github.com/Khursheed5898/AI-ML-DL-Master-resources) |
 
 ---
 
