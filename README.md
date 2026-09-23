@@ -9,27 +9,28 @@ I enjoy working at the intersection of **AI + Software Engineering** — from tr
 
 ## 🚀 Featured Projects Portfolio by Domain
 
-### 🌐 MERN & Full-Stack Development
+### 🌐 [MERN-FullStack_Projects](https://github.com/Khursheed5898/MERN-FullStack_Projects)
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **My Portfolio** | React, Vite, Node.js, CSS | Responsive, interactive developer portfolio showcasing skills and projects | [📂 View Repository](https://github.com/Khursheed5898/My_Portfolio) |
-| **DiBot.AI** | MERN Stack, AI Integration, REST API | Full-stack AI chatbot and smart conversational assistant | [📂 View Repository](https://github.com/Khursheed5898/DiBot.AI) |
-| **Career Counselling Website** | MERN Stack, JavaScript, MongoDB | Interactive platform providing personalized career recommendations & guidance | [📂 View Repository](https://github.com/Khursheed5898/Career-Counselling-Website) |
+| **My Portfolio** | React, Vite, Node.js, CSS | Responsive, interactive developer portfolio showcasing skills and projects | [📂 View Folder](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%281%29%20My_Portfolio) |
+| **DiBot.AI** | MERN Stack, AI Integration, REST API | Full-stack AI chatbot and smart conversational assistant | [📂 View Folder](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%282%29%20DiBot.AI) |
+| **Career Counselling Website** | MERN Stack, JavaScript, MongoDB | Interactive platform providing personalized career recommendations & guidance | [📂 View Folder](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%283%29%20Career_Counselling_Website) |
 
 ---
 
-### 📊 Data Analytics & Business Intelligence
+### 📊 [DataAnalysis_Projects](https://github.com/Khursheed5898/DataAnalysis_Projects)
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **T20 Cricket World Cup Analysis** | Python, Pandas, Power BI, DAX, Power Query | End-to-end data pipeline from web scraping to interactive Power BI "Best 11" selection dashboard | [📂 View Project](https://github.com/Khursheed5898/DataAnalysis_Projects/tree/main/(1)%20t20Match_Analysis) |
+| **T20 Cricket World Cup Analysis** | Python, Pandas, Power BI, DAX, Power Query | End-to-end data pipeline from web scraping to interactive Power BI "Best 11" selection dashboard | [📂 View Folder](https://github.com/Khursheed5898/DataAnalysis_Projects/tree/main/(1)%20t20Match_Analysis) |
 
 ---
 
-### 🧠 AI, Machine Learning & Deep Learning
-| Project | Tech Stack | Highlights | Links |
+### 🧠 [My_AI-ML_Projects](https://github.com/Khursheed5898/My_AI-ML_Projects)
+| Project / Resource | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **Machine Learning Workflows** | Python, Scikit-Learn, Pandas, Jupyter | Exploratory data analysis, feature engineering, classification & regression pipelines | [📂 View Repository](https://github.com/Khursheed5898/Machine-Learning) |
-| **AI & Deep Learning Resources** | TensorFlow, PyTorch, OpenCV, NLP | Master repository covering Computer Vision, NLP & Deep Learning | [📂 View Resources](https://github.com/Khursheed5898/AI-ML-DL-Master-resources) |
+| **Machine Learning Workflows** | Python, Scikit-Learn, Pandas, Jupyter | Exploratory data analysis, feature engineering, classification & regression pipelines | [📂 View Folder](https://github.com/Khursheed5898/My_AI-ML_Projects/tree/main/%281%29%20Machine-Learning) |
+| **500 AI & ML Projects** | PyTorch, TensorFlow, OpenCV, NLP | Curated collection of 500+ end-to-end AI/ML/DL/CV projects with source code | [📂 View Folder](https://github.com/Khursheed5898/My_AI-ML_Projects/tree/main/%282%29%20500-AI-Machine-Learning-Projects) |
+| **AI, ML & DL Master Resources** | Python, Deep Learning, Vision, NLP | Master guides, architectures, roadmaps, and books for AI engineering | [📂 View Folder](https://github.com/Khursheed5898/My_AI-ML_Projects/tree/main/%283%29%20AI-ML-DL-Master-Resources) |
 
 ---
 
