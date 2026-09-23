@@ -1,6 +1,6 @@
 # 👨‍💻 Khursheed Alam — AI Engineer in Progress | Full Stack Developer | Java Backend 🚀
 
-Welcome to my GitHub!  
+Welcome to my GitHub! &  [My Portfolio 🚀 ](https://khursheed4k.vercel.app) 
 I’m a **CSE (Artificial Intelligence) student** passionate about building **intelligent, scalable, and production-ready systems** by combining **AI, Deep Learning, Data Science, and Full Stack Development**.
 
 I enjoy working at the intersection of **AI + Software Engineering** — from training ML/DL models to deploying them inside real-world web applications.
@@ -12,7 +12,7 @@ I enjoy working at the intersection of **AI + Software Engineering** — from tr
 ### 🌐 [MERN-FullStack_Projects](https://github.com/Khursheed5898/MERN-FullStack_Projects)
 | Project | Tech Stack | Highlights | 🌐 Live Demo & 📂 Code |
 | :--- | :--- | :--- | :--- |
-| **My Portfolio** | React, Vite, Node.js, CSS | Responsive, interactive developer portfolio showcasing skills & experience | [🚀 Live Demo](https://khursheed4k.vercel.app)   • [📂 Source Code](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%281%29%20My_Portfolio) |
+| **My Portfolio** | React, Vite, Node.js, CSS | Responsive, interactive developer portfolio showcasing skills & experience | [📂 Source Code](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%281%29%20My_Portfolio) |
 | **DiBot.AI** | MERN Stack, AI Integration, REST API | Full-stack AI chatbot and smart conversational assistant | [📂 Source Code](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%282%29%20DiBot.AI) |
 | **Career Counselling Website** | MERN Stack, JavaScript, MongoDB | Interactive platform providing personalized career recommendations & guidance | [📂 Source Code](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%283%29%20Career_Counselling_Website) |
 
