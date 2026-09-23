@@ -10,27 +10,27 @@ I enjoy working at the intersection of **AI + Software Engineering** — from tr
 ## 🚀 Featured Projects Portfolio by Domain
 
 ### 🌐 [MERN-FullStack_Projects](https://github.com/Khursheed5898/MERN-FullStack_Projects)
-| Project | Tech Stack | Highlights | Links |
+| Project | Tech Stack | Highlights | 🌐 Live Demo & 📂 Code |
 | :--- | :--- | :--- | :--- |
-| **My Portfolio** | React, Vite, Node.js, CSS | Responsive, interactive developer portfolio showcasing skills and projects | [📂 View Folder](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%281%29%20My_Portfolio) |
-| **DiBot.AI** | MERN Stack, AI Integration, REST API | Full-stack AI chatbot and smart conversational assistant | [📂 View Folder](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%282%29%20DiBot.AI) |
-| **Career Counselling Website** | MERN Stack, JavaScript, MongoDB | Interactive platform providing personalized career recommendations & guidance | [📂 View Folder](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%283%29%20Career_Counselling_Website) |
+| **My Portfolio** | React, Vite, Node.js, CSS | Responsive, interactive developer portfolio showcasing skills & experience | [🚀 Live Demo](https://my-portfolio-gamma-eight-58.vercel.app) • [📂 Source Code](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%281%29%20My_Portfolio) |
+| **DiBot.AI** | MERN Stack, AI Integration, REST API | Full-stack AI chatbot and smart conversational assistant | [📂 Source Code](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%282%29%20DiBot.AI) |
+| **Career Counselling Website** | MERN Stack, JavaScript, MongoDB | Interactive platform providing personalized career recommendations & guidance | [📂 Source Code](https://github.com/Khursheed5898/MERN-FullStack_Projects/tree/main/%283%29%20Career_Counselling_Website) |
 
 ---
 
 ### 📊 [DataAnalysis_Projects](https://github.com/Khursheed5898/DataAnalysis_Projects)
-| Project | Tech Stack | Highlights | Links |
+| Project | Tech Stack | Highlights | 🌐 Dashboard & 📂 Code |
 | :--- | :--- | :--- | :--- |
-| **T20 Cricket World Cup Analysis** | Python, Pandas, Power BI, DAX, Power Query | End-to-end data pipeline from web scraping to interactive Power BI "Best 11" selection dashboard | [📂 View Folder](https://github.com/Khursheed5898/DataAnalysis_Projects/tree/main/(1)%20t20Match_Analysis) |
+| **T20 Cricket World Cup Analysis** | Python, Pandas, Power BI, DAX, Power Query | End-to-end data pipeline from web scraping to interactive Power BI "Best 11" selection dashboard | [📊 View Dashboard & Code](https://github.com/Khursheed5898/DataAnalysis_Projects/tree/main/(1)%20t20Match_Analysis) |
 
 ---
 
 ### 🧠 [My_AI-ML_Projects](https://github.com/Khursheed5898/My_AI-ML_Projects)
-| Project / Resource | Tech Stack | Highlights | Links |
+| Project / Resource | Tech Stack | Highlights | 📂 Notebooks & Code |
 | :--- | :--- | :--- | :--- |
-| **Machine Learning Workflows** | Python, Scikit-Learn, Pandas, Jupyter | Exploratory data analysis, feature engineering, classification & regression pipelines | [📂 View Folder](https://github.com/Khursheed5898/My_AI-ML_Projects/tree/main/%281%29%20Machine-Learning) |
-| **500 AI & ML Projects** | PyTorch, TensorFlow, OpenCV, NLP | Curated collection of 500+ end-to-end AI/ML/DL/CV projects with source code | [📂 View Folder](https://github.com/Khursheed5898/My_AI-ML_Projects/tree/main/%282%29%20500-AI-Machine-Learning-Projects) |
-| **AI, ML & DL Master Resources** | Python, Deep Learning, Vision, NLP | Master guides, architectures, roadmaps, and books for AI engineering | [📂 View Folder](https://github.com/Khursheed5898/My_AI-ML_Projects/tree/main/%283%29%20AI-ML-DL-Master-Resources) |
+| **Machine Learning Workflows** | Python, Scikit-Learn, Pandas, Jupyter | Exploratory data analysis, feature engineering, classification & regression pipelines | [📂 View Notebooks](https://github.com/Khursheed5898/My_AI-ML_Projects/tree/main/%281%29%20Machine-Learning) |
+| **500 AI & ML Projects** | PyTorch, TensorFlow, OpenCV, NLP | Curated collection of 500+ end-to-end AI/ML/DL/CV projects with source code | [📂 View Projects](https://github.com/Khursheed5898/My_AI-ML_Projects/tree/main/%282%29%20500-AI-Machine-Learning-Projects) |
+| **AI, ML & DL Master Resources** | Python, Deep Learning, Vision, NLP | Master guides, architectures, roadmaps, and books for AI engineering | [📂 View Resources](https://github.com/Khursheed5898/My_AI-ML_Projects/tree/main/%283%29%20AI-ML-DL-Master-Resources) |
 
 ---
 
