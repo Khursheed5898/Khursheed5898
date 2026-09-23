@@ -7,6 +7,32 @@ I enjoy working at the intersection of **AI + Software Engineering** — from tr
 
 ---
 
+## 🚀 Featured Projects Portfolio by Domain
+
+### 🌐 MERN & Full-Stack Development
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **My Portfolio** | React, Vite, Node.js, CSS | Responsive, interactive developer portfolio showcasing skills and projects | [📂 View Repository](https://github.com/Khursheed5898/My_Portfolio) |
+| **DiBot.AI** | MERN Stack, AI Integration, REST API | Full-stack AI chatbot and smart conversational assistant | [📂 View Repository](https://github.com/Khursheed5898/DiBot.AI) |
+| **Career Counselling Website** | MERN Stack, JavaScript, MongoDB | Interactive platform providing personalized career recommendations & guidance | [📂 View Repository](https://github.com/Khursheed5898/Career-Counselling-Website) |
+
+---
+
+### 📊 Data Analytics & Business Intelligence
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **T20 Cricket World Cup Analysis** | Python, Pandas, Power BI, DAX, Power Query | End-to-end data pipeline from web scraping to interactive Power BI "Best 11" selection dashboard | [📂 View Project](https://github.com/Khursheed5898/DataAnalysis_Projects/tree/main/(1)%20t20Match_Analysis) |
+
+---
+
+### 🧠 AI, Machine Learning & Deep Learning
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **Machine Learning Workflows** | Python, Scikit-Learn, Pandas, Jupyter | Exploratory data analysis, feature engineering, classification & regression pipelines | [📂 View Repository](https://github.com/Khursheed5898/Machine-Learning) |
+| **AI & Deep Learning Resources** | TensorFlow, PyTorch, OpenCV, NLP | Master repository covering Computer Vision, NLP & Deep Learning | [📂 View Resources](https://github.com/Khursheed5898/AI-ML-DL-Master-resources) |
+
+---
+
 ## 💡 Current Focus
 - 🤖 Building **AI & Deep Learning models** (CNNs, RNNs, Transformers) with real-world datasets
 - 🧠 Exploring **Agentic AI** & autonomous AI workflows
@@ -22,29 +48,22 @@ I enjoy working at the intersection of **AI + Software Engineering** — from tr
 
 ### 🔹 Artificial Intelligence & Deep Learning
 - Machine Learning (Supervised, Unsupervised, Reinforcement Learning)
-- Deep Neural Networks (DNN)
-- CNNs for Computer Vision
-- RNN, LSTM, GRU for sequential data
-- Transformers & Attention Mechanism
+- Deep Neural Networks (DNN), CNNs for Computer Vision
+- RNN, LSTM, GRU for sequential data, Transformers & Attention Mechanism
 - NLP (tokenization, embeddings, sentiment analysis)
-- Model training, tuning & evaluation
-- Agentic AI & autonomous agents
-- Explainable AI (basic understanding)
+- Model training, tuning & evaluation, Agentic AI
 
-### 🔹 Data Science
-- Data cleaning & preprocessing
-- Feature engineering
-- Exploratory Data Analysis (EDA)
+### 🔹 Data Science & Analytics
+- Data cleaning & preprocessing with Pandas & NumPy
+- Exploratory Data Analysis (EDA) & Data Visualization
+- Power BI Dashboard Design, Data Modeling (Star Schema) & DAX Formulations
 - Model evaluation (Accuracy, Precision, Recall, F1-score)
-- Working with structured & unstructured data
 
 ### 🔹 Backend, Full Stack & System Design
-- Java (OOPs, DSA, Collections, Multithreading basics)
+- Java (OOPs, DSA, Collections, Multithreading)
 - Spring Boot (REST APIs, MVC architecture)
 - MERN Stack (MongoDB, Express, React, Node.js)
-- Session-based authentication
-- Database design & SQL optimization
-- MVC & DAO design patterns
+- Session-based authentication & Database design (MySQL, MongoDB)
 
 ---
 
@@ -68,6 +87,7 @@ I enjoy working at the intersection of **AI + Software Engineering** — from tr
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -85,39 +105,20 @@ I enjoy working at the intersection of **AI + Software Engineering** — from tr
 
 ---
 
-## 🏆 Internship & Projects
-
-### 🏢 Internship
+## 🏆 Internship Experience
 - **GRAStech Summer Internship**
-  - Java Full Stack Development
-  - DSA with Java
+  - Java Full Stack Development & DSA with Java
   - Backend system design & database optimization
-
-### 📘 Major Projects
-- **Library Management System**
-  - Student & admin authentication
-  - Book issue/return tracking
-  - Session-based login
-  - Dashboard analytics
-  - DAO architecture & optimized SQL queries
-
-- **AI-Based Mini Projects**
-  - ML classification models
-  - NLP-based text processing
-  - Computer vision experiments
-  - Model training & evaluation pipelines
 
 ---
 
 ## 🎯 Career Objective
 To secure an **internship or entry-level role** as:
-- AI Engineer
-- Machine Learning Engineer
-- Full Stack Developer
-- Software Engineer
-- AI Research Intern  
+- AI Engineer / Machine Learning Engineer
+- Data Analyst / BI Developer
+- Full Stack Developer / Software Engineer
 
-…and contribute to **impactful, intelligent, and scalable AI-driven products**.
+…and contribute to **impactful, intelligent, and scalable products**.
 
 ---
 
@@ -131,11 +132,8 @@ To secure an **internship or entry-level role** as:
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ---
 
 📬 **Let’s Connect**  ⭐ *If you like my work, consider starring the repositories!*
- - 🔗 LinkedIn: https://www.linkedin.com/in/khursheed-alam-51a76121b
- - 📹 YouTube : https://www.youtube.com/@khursheed4k
-
-
+- 🔗 **LinkedIn:** [linkedin.com/in/khursheed-alam-51a76121b](https://www.linkedin.com/in/khursheed-alam-51a76121b)
+- 📹 **YouTube:** [@khursheed4k](https://www.youtube.com/@khursheed4k)
